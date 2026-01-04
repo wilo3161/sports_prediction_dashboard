@@ -1,1 +1,15 @@
+# config.yaml
+credentials:
+  usernames:
+    demo:
+      email: demo@sportspred.com
+      name: Usuario Demo
+      password: $2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW  # demo123
 
+cookie:
+  expiry_days: 30
+  key: "demo_key_12345"
+  name: "sportspred_auth"
+
+preauthorized:
+  emails: []
